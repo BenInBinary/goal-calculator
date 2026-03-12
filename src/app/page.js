@@ -20,7 +20,7 @@ export default function Home() {
               <Target className="h-5 w-5 text-white" />
             </div>
             <h1 className="text-xl font-bold tracking-tight bg-clip-text text-transparent bg-gradient-to-r from-indigo-600 to-purple-600 dark:from-indigo-400 dark:to-purple-400">
-              Goal Tracker Pro
+              Goal Tracker
             </h1>
           </div>
         </div>

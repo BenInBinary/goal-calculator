@@ -4,7 +4,7 @@ export function Input({
   id,
   label,
   icon: Icon,
-  type = "number",
+  type = "text",
   className,
   ...props
 }) {
